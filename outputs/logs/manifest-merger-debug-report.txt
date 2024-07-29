@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/joeseph/.gradle/caches/transforms-4/0f0c6f7096b12c4ec19a6e89a4840eb3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/joeseph/.gradle/caches/transforms-4/185c9b5f4f51a91d6f70d2ece4adee50/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/d025201e40a4114b8469792db417728e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/b67b2a8595387b3147cbf0bec04c6ec8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/185692135a16c92f8e976f80d437270e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/54ec8385f57161f97e64d9937d8cc714/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/1e3b3ff5f6a3cb1df980d0db71631005/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/15d0b5b6be08f551e266ed6d708fe71e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/4745a68101d9e625ea2ca003e875249a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/9c814aaa6a666879856a9a622bf03d39/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/ef227e810a44dd254996318a9a6e8026/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/7ec64a96121e650d8f7847b39e18e2ec/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/325d09a7c72cd978c48514a722438ecc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/01a9e9a05a1a98a1cdf7e1fffd572854/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/94b34647026a288463e72ff34c4f826e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/7abb9a145316a3cf6b9a086f42c43082/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/c79940b77dd67d2c21b180606606355d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/e7666adc7675b282a7f25bbf7300623e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/d8a70cee3ef2b1fecd095dc26b030ac6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/joeseph/.gradle/caches/transforms-4/3feab246e0eb2a543c15154067b2eb19/transformed/jetified-williamchart-2.2/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/6074dca6218567d29cc93b5f0d3a8f6d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joeseph/.gradle/caches/transforms-4/b224f41bc3e1a54c87bcdd483d38b08b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/1c58a2c54d02e49576c76483282fc1ac/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/d00eb0faefa80f6137451c82c1309c6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/940623b6b72e9aa877c9b2f705e79a13/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/ac94b819ff5774e8eb5451f3f39ce70d/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/6ea670eb3f7cda881342950bae43882a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/joeseph/.gradle/caches/transforms-4/70860fa0de31debb557a17c8d76b0a2d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/af2287e7c2f99ab3db7c5c879e2b5ee9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/23149437ae717044278cce06dd7ffc0d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/50955e58f5b1887c0d94c66d895f3836/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/74c458ed02d52cc8a786a015f8370e13/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:1-119:12
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:13:5-118:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/joeseph/.gradle/caches/transforms-4/0f0c6f7096b12c4ec19a6e89a4840eb3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/joeseph/.gradle/caches/transforms-4/0f0c6f7096b12c4ec19a6e89a4840eb3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/joeseph/.gradle/caches/transforms-4/185c9b5f4f51a91d6f70d2ece4adee50/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/joeseph/.gradle/caches/transforms-4/185c9b5f4f51a91d6f70d2ece4adee50/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/9c814aaa6a666879856a9a622bf03d39/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/9c814aaa6a666879856a9a622bf03d39/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joeseph/.gradle/caches/transforms-4/b224f41bc3e1a54c87bcdd483d38b08b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joeseph/.gradle/caches/transforms-4/b224f41bc3e1a54c87bcdd483d38b08b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:17:9-32
+	android:fullBackupContent
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:14:9-35
+activity#cz.martykan.forecastie.activities.SplashActivity
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:theme
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:21:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:25:27-74
+activity#cz.martykan.forecastie.activities.MainActivity
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:29:9-32:58
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:30:13-52
+activity#cz.martykan.forecastie.activities.SettingsActivity
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:34:9-38:46
+	android:parentActivityName
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:36:13-66
+	tools:ignore
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:38:13-43
+	android:theme
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:35:13-56
+activity#cz.martykan.forecastie.activities.MapActivity
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:40:9-44:46
+	android:parentActivityName
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:42:13-66
+	tools:ignore
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:44:13-43
+	android:theme
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:41:13-51
+activity#cz.martykan.forecastie.activities.GraphActivity
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:46:9-51:46
+	android:parentActivityName
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:49:13-66
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:48:13-50
+	tools:ignore
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:51:13-43
+	android:theme
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:47:13-53
+receiver#cz.martykan.forecastie.widgets.ExtensiveWidgetProvider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:56:9-64:20
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:56:67-113
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:56:19-66
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:57:13-59:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:58:17-84
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:58:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:61:13-63:60
+	android:resource
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:63:17-57
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:62:17-58
+receiver#cz.martykan.forecastie.widgets.TimeWidgetProvider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:66:62-103
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:66:19-61
+receiver#cz.martykan.forecastie.widgets.SimpleWidgetProvider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:76:9-84:20
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:76:64-107
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:76:19-63
+receiver#cz.martykan.forecastie.widgets.ClassicTimeWidgetProvider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:86:9-94:20
+	android:label
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:86:69-113
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:86:19-68
+receiver#cz.martykan.forecastie.AlarmReceiver
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:96:9-103:20
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:96:19-48
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCALE_CHANGED+action:name:android.intent.action.PACKAGE_REPLACED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:97:13-102:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:98:25-76
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:99:17-81
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:99:25-78
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:100:17-79
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:100:25-76
+action#android.intent.action.LOCALE_CHANGED
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:101:25-76
+service#cz.martykan.forecastie.notifications.WeatherNotificationService
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:108:9-110:77
+	android:exported
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:109:13-37
+	android:description
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:110:13-75
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:108:18-74
+provider#cz.martykan.forecastie.utils.StubContentProvider
+ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:114:9-117:39
+	android:authorities
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:116:13-67
+	android:exported
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:117:13-36
+	android:name
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml:115:13-76
+uses-sdk
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/joeseph/.gradle/caches/transforms-4/0f0c6f7096b12c4ec19a6e89a4840eb3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/joeseph/.gradle/caches/transforms-4/0f0c6f7096b12c4ec19a6e89a4840eb3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/joeseph/.gradle/caches/transforms-4/185c9b5f4f51a91d6f70d2ece4adee50/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/joeseph/.gradle/caches/transforms-4/185c9b5f4f51a91d6f70d2ece4adee50/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/d025201e40a4114b8469792db417728e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/d025201e40a4114b8469792db417728e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/b67b2a8595387b3147cbf0bec04c6ec8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/b67b2a8595387b3147cbf0bec04c6ec8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/185692135a16c92f8e976f80d437270e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/185692135a16c92f8e976f80d437270e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/54ec8385f57161f97e64d9937d8cc714/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/54ec8385f57161f97e64d9937d8cc714/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/1e3b3ff5f6a3cb1df980d0db71631005/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/1e3b3ff5f6a3cb1df980d0db71631005/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/15d0b5b6be08f551e266ed6d708fe71e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/15d0b5b6be08f551e266ed6d708fe71e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/4745a68101d9e625ea2ca003e875249a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/4745a68101d9e625ea2ca003e875249a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/9c814aaa6a666879856a9a622bf03d39/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/9c814aaa6a666879856a9a622bf03d39/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/ef227e810a44dd254996318a9a6e8026/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/ef227e810a44dd254996318a9a6e8026/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/7ec64a96121e650d8f7847b39e18e2ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/7ec64a96121e650d8f7847b39e18e2ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/325d09a7c72cd978c48514a722438ecc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/325d09a7c72cd978c48514a722438ecc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/01a9e9a05a1a98a1cdf7e1fffd572854/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/01a9e9a05a1a98a1cdf7e1fffd572854/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/94b34647026a288463e72ff34c4f826e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/joeseph/.gradle/caches/transforms-4/94b34647026a288463e72ff34c4f826e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/7abb9a145316a3cf6b9a086f42c43082/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/7abb9a145316a3cf6b9a086f42c43082/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/c79940b77dd67d2c21b180606606355d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/c79940b77dd67d2c21b180606606355d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/e7666adc7675b282a7f25bbf7300623e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/e7666adc7675b282a7f25bbf7300623e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/d8a70cee3ef2b1fecd095dc26b030ac6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/joeseph/.gradle/caches/transforms-4/d8a70cee3ef2b1fecd095dc26b030ac6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/joeseph/.gradle/caches/transforms-4/bcb87f459685649ebae0484ccfa02849/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/joeseph/.gradle/caches/transforms-4/3feab246e0eb2a543c15154067b2eb19/transformed/jetified-williamchart-2.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/joeseph/.gradle/caches/transforms-4/3feab246e0eb2a543c15154067b2eb19/transformed/jetified-williamchart-2.2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/6074dca6218567d29cc93b5f0d3a8f6d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/6074dca6218567d29cc93b5f0d3a8f6d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joeseph/.gradle/caches/transforms-4/b224f41bc3e1a54c87bcdd483d38b08b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joeseph/.gradle/caches/transforms-4/b224f41bc3e1a54c87bcdd483d38b08b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/1c58a2c54d02e49576c76483282fc1ac/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/1c58a2c54d02e49576c76483282fc1ac/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/d00eb0faefa80f6137451c82c1309c6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/d00eb0faefa80f6137451c82c1309c6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/940623b6b72e9aa877c9b2f705e79a13/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/940623b6b72e9aa877c9b2f705e79a13/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/ac94b819ff5774e8eb5451f3f39ce70d/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/ac94b819ff5774e8eb5451f3f39ce70d/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/6ea670eb3f7cda881342950bae43882a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/6ea670eb3f7cda881342950bae43882a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/joeseph/.gradle/caches/transforms-4/70860fa0de31debb557a17c8d76b0a2d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/joeseph/.gradle/caches/transforms-4/70860fa0de31debb557a17c8d76b0a2d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/af2287e7c2f99ab3db7c5c879e2b5ee9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/af2287e7c2f99ab3db7c5c879e2b5ee9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/23149437ae717044278cce06dd7ffc0d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/23149437ae717044278cce06dd7ffc0d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/50955e58f5b1887c0d94c66d895f3836/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/50955e58f5b1887c0d94c66d895f3836/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/74c458ed02d52cc8a786a015f8370e13/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/joeseph/.gradle/caches/transforms-4/74c458ed02d52cc8a786a015f8370e13/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joeseph/Downloads/forecastie-master 2/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/joeseph/.gradle/caches/transforms-4/f8df6cec1afb354cbde8bfd014b58bd3/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
